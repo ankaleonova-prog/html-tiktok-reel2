@@ -34,6 +34,7 @@ video {
 	display: flex;
 	color: white;
 	font-size: 15px;
+	font-weight: bold;
 
 
 
@@ -58,6 +59,15 @@ video {
 }
 .btnperte{
 	text-decoration: underline;
+}
+#redpoint{
+	color: red;
+	font-size: 10px;
+	position: relative;
+	min-height: auto;
+	top: -10px;
+
+
 }
 
 /* Footer */
