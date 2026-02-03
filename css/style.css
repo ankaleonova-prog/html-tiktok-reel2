@@ -58,7 +58,14 @@ video {
 	opacity: 50%;
 }
 .btnperte{
-	text-decoration: underline;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+hr{
+	width: 30px;
+	
+	
 }
 #redpoint{
 	color: red;
@@ -133,8 +140,8 @@ footer {
 .numbers{
 	font-size: 11px;
 }
-.btnplus.{
-	font-size: 16px;
+.btnplus{
+	font-size: 25px;
 	
 }
 
@@ -149,7 +156,7 @@ da rimuovere una volta concluso
 
 .debug .sidebar {
 	min-width: 80px;
-	min-height: 300px;
+	min-height: 250px;
 	border: 2px dashed #ff0;
 }
 
